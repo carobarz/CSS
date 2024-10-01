@@ -1,0 +1,11 @@
+.text-color {
+    color: rgb(3, 3, 83)
+}
+.destacado {
+    font-size: 18px;
+    color: red;
+}
+p {
+    text-decoration: underline;
+    color: green;
+}

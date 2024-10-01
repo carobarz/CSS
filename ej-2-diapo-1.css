@@ -1,0 +1,49 @@
+.lista-colores {
+    background-color: rgb(221, 216, 216);
+    border: solid; border-width: 2px; border-style: solid; border-color: gray;
+    padding: 25px;
+    width: 900px;
+    height: 120px;
+    text-align: center;
+
+}
+.item1 {
+    color: red;
+    border: solid; border-color: black;
+    margin: 5px;
+    padding: 5px;
+    
+}
+.item2 {
+    color: green;
+    border: solid; border-color: black;
+    margin: 5px;
+    padding: 5px;
+   
+}
+.item3 {
+    color: blue;
+    border: solid; border-color: black;
+    margin: 5px;
+    padding: 5px;
+}
+.btn-primary {
+    font-style: italic;
+    font-size: medium;
+    width: 400px;
+    height: 70px;
+    margin: 25px;
+    padding: 15px;
+    background-color: rgb(205, 226, 15);
+    color: rgb(221, 106, 13);
+}
+.btn-secondary {
+    font-style: italic;
+    font-size: medium;
+    width: 400px;
+    height: 70px;
+    margin: 50px;
+    padding: 15px;
+    background-color: rgb(255, 165, 0);
+    color: rgb(0, 0, 0);
+}
