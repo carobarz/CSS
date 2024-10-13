@@ -1,11 +1,27 @@
-.text-color {
-    color: rgb(3, 3, 83)
+* {
+    font-family: verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    color: darkblue;
+    text-align: center;
 }
 .destacado {
-    font-size: 18px;
+    font-size: 22px;
     color: red;
 }
-p {
+.informacion {
     text-decoration: underline;
     color: green;
+}
+a {
+    color: green;
+}
+.lorem {
+    margin: 50px;
+    color: darkcyan;
+    line-height: 25px;
+    letter-spacing: 5px;
+    text-transform: uppercase;
 }
